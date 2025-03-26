@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from BrandrdXMusic import app
 
-BOT_USERNAME = "heer_chatbot"
+BOT_USERNAME = "system_musicbot"
 
 start_txt = """**
 ✪ 𝐊𝐇𝐔𝐃 𝐁𝐀𝐍𝐀 𝐁𝐇𝐎𝐒𝐃𝐈𝐊𝐄 ✪
@@ -21,7 +21,7 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/ll_Chalcogen_ll"),
+             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/rao_shab_005"),
              InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ll_lafz_ll"),
              ],
      
